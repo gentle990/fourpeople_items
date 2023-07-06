@@ -12,7 +12,12 @@ const Customeservice = () => import('../views/Customeservice/index.vue')
 const Accounting = () => import('../views/Accounting/index.vue')
 const Statistics = () => import('../views/Statistics/index.vue')
 const Service = () => import('../views/Service/index.vue')
-const Application = () => import('../views/Application/index.vue')
+const Mygoods = () => import('../views/Goods/mygoods.vue')
+const Publishgoods = () => import('../views/Goods/publishgoods/index.vue')
+const Completed_orders = () => import('../views/Trade/completed_orders.vue')
+const Uncompleted_orders = () => import('../views/trade/uncompleted_orders.vue')
+const All_orders = () => import('../views/Trade/all_orders.vue')
+
 
 
 const router = createRouter({
@@ -82,7 +87,7 @@ const router = createRouter({
         {
           path: 'all_orders',//所有订单
           name: 'all_orders',
-          component: Uncompleted_orders,
+          component: All_orders,
           meta: {
             breadcrumbs: ['All_orders']
           }
