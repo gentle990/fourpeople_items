@@ -21,72 +21,72 @@ const router = createRouter({
     {
       path: '/',
       name: 'index',
-      component: Index
+      component: Index //首页
     },
     {
       path: '/login',
       name: 'login',
-      component: Login
+      component: Login //登录
     },
     {
       path: 'goods',
       name: 'goods',
-      component: Goods
+      component: Goods //商品
     },
     {
       path: 'trade',
       name: 'trade',
-      component: Trade
+      component: Trade //交易
     },
     {
       path: 'content',
       name: 'content',
-      component: Content
+      component: Content //内容
     },
     {
       path: 'shopstore',
       name: 'shopstore',
-      component: Shopstore
+      component: Shopstore //店铺
     },
     {
       path: 'marketing',
       name: 'marketing',
-      component: Marketing
+      component: Marketing //营销
     },
     {
       path: 'promotion',
       name: 'promotion',
-      component: Promotion
+      component: Promotion //推广
     },
     {
       path: 'user',
       name: 'user',
-      component: User
+      component: User //用户
     },
     {
       path: 'customeservice',
       name: 'customeservice',
-      component: Customeservice
+      component: Customeservice //客服
     },
     {
       path: 'accounting',
       name: 'accounting',
-      component: Accounting
+      component: Accounting //财务
     },
     {
       path: 'statistics',
       name: 'statistics',
-      component: Statistics
+      component: Statistics //数据
     },
     {
       path: 'service',
       name: 'service',
-      component: Service
+      component: Service //服务
     },
     {
       path: 'application',
       name: 'application',
-      component: Application
+      component: Application //应用
     },
     {
       path:'/:pathMatch(.*)*', 
