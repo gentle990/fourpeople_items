@@ -1,6 +1,7 @@
 <template>
     <div>
         hello publishgoods
+        <router-View></router-View>
     </div>
 </template>
 

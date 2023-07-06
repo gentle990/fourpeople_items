@@ -1,6 +1,7 @@
 <template>
     <div>
         hello all_order
+        <router-View></router-View>
     </div>
 </template>
 

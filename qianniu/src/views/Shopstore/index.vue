@@ -1,6 +1,7 @@
 <template>
     <div>
         hello shopstore
+        <router-View></router-View>
     </div>
 </template>
 

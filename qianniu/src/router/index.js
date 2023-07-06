@@ -1,22 +1,26 @@
 import { createRouter, createWebHistory } from 'vue-router'
-const Index = () => import('../views/Login/index.vue')
-const Login = () => import('../views/Index/index.vue')
-const Goods = () => import('../views/Goods/index.vue')
-const Trade = () => import('../views/Trade/index.vue')
-const Content = () => import('../views/Content/index.vue')
-const Shopstore = () => import('../views/Shopstore/index.vue')
-const Marketing = () => import('../views/Marketing/index.vue')
-const Promotion = () => import('../views/Promotion/index.vue')
-const User = () => import('../views/User/index.vue')
-const Customeservice = () => import('../views/Customeservice/index.vue')
-const Accounting = () => import('../views/Accounting/index.vue')
-const Statistics = () => import('../views/Statistics/index.vue')
-const Service = () => import('../views/Service/index.vue')
-const Mygoods = () => import('../views/Goods/mygoods.vue')
-const Publishgoods = () => import('../views/Goods/publishgoods/index.vue')
-const Completed_orders = () => import('../views/Trade/completed_orders.vue')
-const Uncompleted_orders = () => import('../views/trade/uncompleted_orders.vue')
-const All_orders = () => import('../views/Trade/all_orders.vue')
+const Index = () => import('@/views/Login/index.vue')
+const Login = () => import('@/views/Index/index.vue')
+const Goods = () => import('@/views/Goods/index.vue')
+const Trade = () => import('@/views/Trade/index.vue')
+const Content = () => import('@/views/Content/index.vue')
+const Shopstore = () => import('@/views/Shopstore/index.vue')
+const Marketing = () => import('@/views/Marketing/index.vue')
+const Promotion = () => import('@/views/Promotion/index.vue')
+const User = () => import('@/views/User/index.vue')
+const Customeservice = () => import('@/views/Customeservice/index.vue')
+const Accounting = () => import('@/views/Accounting/index.vue')
+const Statistics = () => import('@/views/Statistics/index.vue')
+const Service = () => import('@/views/Service/index.vue')
+const Application = () => import('@/views/Application/index.vue')
+
+
+
+const Mygoods = () => import('@/views/Goods/mygoods.vue')
+const Publishgoods = () => import('@/views/Goods/publishgoods.vue')
+const Completed_orders = () => import('@/views/Trade/completed_orders.vue')
+const Uncompleted_orders = () => import('@/views/trade/uncompleted_orders.vue')
+const All_orders = () => import('@/views/Trade/all_orders.vue')
 
 
 
@@ -27,10 +31,20 @@ const router = createRouter({
       path: '/',
       name: 'index',
       component: Index,//首页
-      redirect:'/goods',
+      redirect: '/goods',
       meta: {
         auth: true  // 需要权限，meta中的数据是可以继承给children
-      },
+      }
+    },
+    {
+      path: '/login',
+      name: 'login',
+      component: Login //登录
+    },
+    {
+      path: '/goods',
+      name: 'goods',
+      component: Goods,//商品
       children: [
         {
           path: 'mygoods',
@@ -49,16 +63,6 @@ const router = createRouter({
           }
         }
       ],
-    },
-    {
-      path: '/login',
-      name: 'login',
-      component: Login //登录
-    },
-    {
-      path: '/goods',
-      name: 'goods',
-      component: Goods //商品
     },
     {
       path: '/trade',
@@ -145,8 +149,8 @@ const router = createRouter({
       component: Application //应用
     },
     {
-      path:'/:pathMatch(.*)*', 
-      redirect:'/'
+      path: '/:pathMatch(.*)*',
+      redirect: '/'
     }
   ]
 })

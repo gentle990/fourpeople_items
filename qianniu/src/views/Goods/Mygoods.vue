@@ -1,6 +1,7 @@
 <template>
     <div>
         hello mygoods
+        <router-View></router-View>
     </div>
 </template>
 

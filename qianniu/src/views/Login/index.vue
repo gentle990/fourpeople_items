@@ -1,6 +1,7 @@
 <template>
     <div>
         hello login
+        <router-View></router-View>
     </div>
 </template>
 
