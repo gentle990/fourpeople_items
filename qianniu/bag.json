@@ -1,0 +1,143 @@
+{
+    "goodslist":[
+        {
+            "itemId": 723124165810,
+            "image": "https://img.alicdn.com/imgextra/i4/2212960604401/O1CN01HiMZpO1iNhvpTqpSu_!!2212960604401.jpg",
+            "title": "黄铜武财神钥匙扣十二生肖财神爷",
+            "price": "8.80",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["赵公明", "武财神", "五帝钱"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=723124165810&commendWords=赵公明,武财神,五帝钱",
+            "searchSameUrl": "https://s.taobao.com/search?q=赵公明武财神五帝钱",
+            "disable": 0,
+            "cateName": "饰品/流行首饰/时尚饰品新->项坠/吊坠",
+            "monthSearch": {
+                "number": "10万+",
+                "ratio": 2.81844976937788
+            },
+            "monthQuantity": {
+                "number": "1000+",
+                "ratio": 7.34121122599705
+            },
+            "monthItem": {
+                "number": "100+",
+                "ratio": 1.80565371024735
+            },
+            "priceRange": "18-159",
+            "crowdType": "男性 | 初入职场"
+        },{
+            "itemId": 712056849393,
+            "image": "https://img.alicdn.com/imgextra/i1/1015912193/O1CN01T349cY1S4ROymwAvj_!!1015912193.jpg",
+            "title": "端午节艾草粽子香包项链儿童宝宝",
+            "price": "3.50",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["端午节", "儿童", "香囊"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=712056849393&commendWords=端午节,儿童,香囊",
+            "searchSameUrl": "https://s.taobao.com/search?q=端午节儿童香囊",
+            "disable": 0,
+            "cateName": "饰品/流行首饰/时尚饰品新->项链",
+            "monthSearch": {
+                "number": "10万+",
+                "ratio": 0.409145740529034
+            },
+            "monthQuantity": {
+                "number": "1万+",
+                "ratio": 0.563250391508613
+            },
+            "monthItem": {
+                "number": "100+",
+                "ratio": -0.140794223826715
+            },
+            "priceRange": "6-22",
+            "crowdType": "女性 | 养儿育女"
+        }, {
+            "itemId": 593306119094,
+            "image": "https://img.alicdn.com/imgextra/i2/88745/O1CN01F3dEuY2ETGDo6xX2e_!!88745.jpg",
+            "title": "【珠宝】缅甸天然翡翠a货观音如意",
+            "price": "10000.00",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["翡翠A货", "手镯", "如意"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=593306119094&commendWords=翡翠A货,手镯,如意",
+            "searchSameUrl": "https://s.taobao.com/search?q=翡翠A货手镯如意",
+            "disable": 0,
+            "cateName": "珠宝/钻石/翡翠/黄金->颈饰",
+            "monthSearch": {
+                "number": "1000+",
+                "ratio": 0.347063310450038
+            },
+            "monthQuantity": {
+                "number": "10万+",
+                "ratio": 0.0988130334137778
+            },
+            "monthItem": {
+                "number": "1000+",
+                "ratio": -0.00162601626016257
+            },
+            "priceRange": "1200-4605",
+            "crowdType": "女性 | 子女成家"
+        }, {
+            "itemId": 717615766704,
+            "image": "https://img.alicdn.com/imgextra/i3/834522896/O1CN01nk68D01XGPqMmQ3QA_!!834522896.jpg",
+            "title": "训练干湿分离游泳健身包男士短途",
+            "price": "181.00",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["游泳健身", "干湿分离", "短途"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=717615766704&commendWords=游泳健身,干湿分离,短途",
+            "searchSameUrl": "https://s.taobao.com/search?q=游泳健身干湿分离短途",
+            "disable": 0,
+            "cateName": "箱包皮具/热销女包/男包->旅行袋",
+            "monthSearch": {
+                "number": "10万+",
+                "ratio": 0.348225089255927
+            },
+            "monthQuantity": {
+                "number": "1万+",
+                "ratio": 0.436028897692845
+            },
+            "monthItem": {
+                "number": "1000+",
+                "ratio": 0.0237025948103793
+            },
+            "priceRange": "55-154",
+            "crowdType": "男性 | 初入职场"
+        }, {
+            "itemId": 589013354310,
+            "image": "https://img.alicdn.com/imgextra/i2/1108777800/O1CN01cDnyLc27URnY2XhvT_!!1108777800.jpg",
+            "title": "直播翡翠叶子福瓜平安扣观音大肚",
+            "price": "10.00",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["路路通", "叶子", "大肚佛"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=589013354310&commendWords=路路通,叶子,大肚佛",
+            "searchSameUrl": "https://s.taobao.com/search?q=路路通叶子大肚佛",
+            "disable": 0,
+            "cateName": "珠宝/钻石/翡翠/黄金->颈饰",
+            "monthSearch": {
+                "number": "1000+",
+                "ratio": 0.253784056508577
+            },
+            "monthQuantity": {
+                "number": "10万+",
+                "ratio": 0.344905618721713
+            },
+            "monthItem": {
+                "ratio": 0
+            },
+            "priceRange": "47-1899",
+            "crowdType": "女性 | 退休生活"
+        }
+    ]}

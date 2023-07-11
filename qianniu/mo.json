@@ -1,0 +1,32 @@
+{
+    "goodslist":[
+        {
+            "itemId": 712056849393,
+            "image": "https://img.alicdn.com/imgextra/i1/1015912193/O1CN01T349cY1S4ROymwAvj_!!1015912193.jpg",
+            "title": "端午节艾草粽子香包项链儿童宝宝",
+            "price": "3.50",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["端午节", "儿童", "香囊"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=712056849393&commendWords=端午节,儿童,香囊",
+            "searchSameUrl": "https://s.taobao.com/search?q=端午节儿童香囊",
+            "disable": 0,
+            "cateName": "饰品/流行首饰/时尚饰品新->项链",
+            "monthSearch": {
+                "number": "10万+",
+                "ratio": 0.409145740529034
+            },
+            "monthQuantity": {
+                "number": "1万+",
+                "ratio": 0.563250391508613
+            },
+            "monthItem": {
+                "number": "100+",
+                "ratio": -0.140794223826715
+            },
+            "priceRange": "6-22",
+            "crowdType": "女性 | 养儿育女"
+        }
+    ]}

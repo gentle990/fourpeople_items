@@ -1,6 +1,6 @@
 <template>
     <div>
-        hello completed_order
+        hello Uncompleted_orders
         <router-View></router-View>
     </div>
 </template>

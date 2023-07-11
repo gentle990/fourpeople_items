@@ -1,0 +1,60 @@
+{
+    "goodslist":[
+        {
+            "itemId": 652423009084,
+            "image": "https://img.alicdn.com/imgextra/i3/2212243377829/O1CN01j84kiZ27hjX27mYtD_!!2212243377829.jpg",
+            "title": "攸县香干238克*4包湖南特产",
+            "price": "38.00",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["攸县香干", "湖南特产"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=652423009084&commendWords=攸县香干,湖南特产",
+            "searchSameUrl": "https://s.taobao.com/search?q=攸县香干湖南特产",
+            "disable": 0,
+            "cateName": "水产肉类/新鲜蔬果/熟食->豆腐干/香干",
+            "monthSearch": {
+                "number": "1万+",
+                "ratio": 0.0824673467442082
+            },
+            "monthQuantity": {
+                "number": "1000+",
+                "ratio": 0.0583694219544342
+            },
+            "monthItem": {
+                "number": "100+",
+                "ratio": -0.128133704735376
+            },
+            "priceRange": "37-57",
+            "crowdType": "女性 | 职场进阶"
+        },{
+            "itemId": 670900096227,
+            "image": "https://img.alicdn.com/imgextra/i2/2213244582810/O1CN01aoCasv1Wd1gvS2Ccj_!!2213244582810.jpg",
+            "title": "泡水泡茶正品旗舰店泡水莲子芯干货",
+            "price": "19.90",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["莲芯", "非特级"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=670900096227&commendWords=莲芯,非特级",
+            "searchSameUrl": "https://s.taobao.com/search?q=莲芯非特级",
+            "disable": 0,
+            "cateName": "传统滋补营养品->养生茶",
+            "monthSearch": {
+                "number": "1000+",
+                "ratio": 2.64226973684211
+            },
+            "monthQuantity": {
+                "number": "1000+",
+                "ratio": 0.554419723391461
+            },
+            "monthItem": {
+                "number": "100+",
+                "ratio": -0.05
+            },
+            "priceRange": "16-40",
+            "crowdType": "男性 | 成家立业"
+        }
+    ]}
