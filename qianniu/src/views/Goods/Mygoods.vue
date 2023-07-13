@@ -1,8 +1,10 @@
 <template>
-    <div>
-        hello mygoods
-        <router-View></router-View>
-    </div>
+    
+  <div style="font-size: 20px">
+   
+    
+  </div>
+
 </template>
 
 <script setup>

@@ -1,7 +1,6 @@
 <template>
     <div>
         hello index
-        <router-View></router-View>
     </div>
 </template>
 

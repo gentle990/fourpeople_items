@@ -1,6 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router'
-const Index = () => import('@/views/Login/index.vue')
-const Login = () => import('@/views/Index/index.vue')
+import { info } from '../api/users' //引入接口，获取用户信息，为了在请求头中携带token，进行接口的校验，如果没有token，就不让访问接口，直接跳转到登录页面，进行登录，获取token，再进行接口的访问 ，这样就可以保证接口的安全性，防止接口被恶意访问。
+
+const Index = () => import('@/views/Index/index.vue')
+const Login = () => import('@/views/Login/index.vue')
 const Goods = () => import('@/views/Goods/index.vue')
 const Trade = () => import('@/views/Trade/index.vue')
 const Content = () => import('@/views/Content/index.vue')
@@ -31,15 +33,19 @@ const router = createRouter({
       path: '/',
       name: 'index',
       component: Index,//首页
-      redirect: '/goods',
+      // redirect: '/goods',
       meta: {
-        auth: true  // 需要权限，meta中的数据是可以继承给children
+        auth: true  // 需要权限，meta中的数据是可以继承给children //全局守卫的权限，可以继承给子
       }
     },
     {
       path: '/login',
       name: 'login',
-      component: Login //登录
+      component: Login,//登录
+      meta: {
+        auth: false  // 不给权限
+      }
+
     },
     {
       path: '/goods',
@@ -154,5 +160,25 @@ const router = createRouter({
     }
   ]
 })
+
+// 全局路由守卫 //
+router.beforeEach((to, from, next) => {
+  if (to.meta.auth) {//判断是否需要权限
+    // 调用info操作的时候，自动在请求头中携带token
+    info().then(res => {
+      if (res.data.meta.status === 200) {
+        console.log('已登录')
+        next()
+      }
+      else {
+        next('/login')
+        console.log('未登录')
+      }
+    })
+
+  } else { //不需要权限
+    next()
+  }
+})//全局前置守卫
 
 export default router

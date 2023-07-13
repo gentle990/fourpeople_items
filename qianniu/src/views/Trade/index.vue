@@ -1,7 +1,6 @@
 <template>
     <div>
         hello trade
-        <router-View></router-View>
     </div>
 </template>
 

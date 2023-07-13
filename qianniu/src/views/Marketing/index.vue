@@ -1,7 +1,6 @@
 <template>
     <div>
         hello marketing
-        <router-View></router-View>
     </div>
 </template>
 

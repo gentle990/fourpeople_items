@@ -1,7 +1,6 @@
 <template>
     <div>
         hello completed_order
-        <router-View></router-View>
     </div>
 </template>
 
