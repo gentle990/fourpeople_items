@@ -188,8 +188,8 @@ const router = createRouter({
       ]
     },
     {
-      path: '/`login`',
-      name: '`login`',
+      path: '/login',
+      name: 'login',
       component: Login,//登录
       meta: {
         auth: false  // 不给权限

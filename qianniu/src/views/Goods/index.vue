@@ -5,7 +5,6 @@
         <router-link to="/goods/mygoods">
             <el-menu-item index="1">全部宝贝</el-menu-item>
         </router-link>
-            
             <el-sub-menu index="2">
                 <template #title>优质宝贝 </template>
                 <el-menu-item index="2-1">一级宝贝</el-menu-item>
