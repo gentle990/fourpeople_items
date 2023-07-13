@@ -68,10 +68,9 @@
             </el-dialog>
         </div>
         <div v-for="child in ruleForm">
-            <p>{{ child.name }}</p>
-            <img src="child.url" >
-            <p>{{ child.price }}</p>
-            <p>{{ child.info }}</p>
+            <p>{{ child }}</p>
+            <!-- <img src="child.data.tmp_path" > -->
+            <img :src="child.url" class="image" />
         </div>
     </div>
 </template>
@@ -98,12 +97,6 @@ const confirmEvent = (index, index2) => {
         }
     })
 }
-findShop({ username: usersStore.username }).then((res) => {
-    if (res.data) {
-        dynamictags.value = res.data.dynamictags
-        activeName.value = dynamictags.value[0].title
-    }
-})
 
 // 弹窗
 const dialogVisible = ref(false)
@@ -148,17 +141,22 @@ const submitForm = (formEl) => {
     if (!formEl) return
     formEl.validate((valid, fields) => {
         if (valid) {
+            console.log(123)
+            // debugger
+            //是想从表单拿到数据调用服务器进行新增对吧？dui 这个是啥dynamictags收集数据得
+            //已经有表单数据了，应该不用这个，看起来这个是动态标签，宝贝分类得 对的对的搞重复了
+            //是哪个api部？找一下对应得api 
+            //那个是更新店铺信息得，你这个是新增商品，应该部是一个事儿 我懂了 虎哥 知道哪里写错了
+            //还有 ，表单数据 直接是formEl 应该就能拿到，组装城json 发送添加商品得请求 应该就ok了，但是发送所有请求都要携带token //token配置在axios 记得要更新 他有时间限制得 
+            //好的 我去尝试更改 有思路了 1111111
             const list = dynamictags.value.find((item) => item.title === ruleForm.title).list
 
             // 方案1
-            // list.push({name: ruleForm.name, price: ruleForm.price, info: ruleForm.info, url: ruleForm.url})
+            list.push({name: ruleForm.name, price: ruleForm.price, info: ruleForm.info, url: ruleForm.url})
 
-            // 方案2
-            const cloneRuleForm = { ...ruleForm }
-            delete cloneRuleForm.title
-            list.push(cloneRuleForm)
+           
 
-            updateShop({ username: usersStore.username, dynamictags: dynamictags.value }).then((res) => {
+            updateShop({ username: usersStore.username, ruleForm: ruleForm.value }).then((res) => {
                 if (res.data.rid === 0) {
                     ElMessage.success('添加宝贝成功')
                 }
@@ -182,7 +180,7 @@ const resetForm = (formEl) => {
 
 const headerToken = computed(() => {
     console.log(123)
-    return { "Authorization": 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjUwMCwicmlkIjowLCJpYXQiOjE2ODkwNjM2MjcsImV4cCI6MTY4OTE1MDAyN30.YOFDbwpDSXPNMqJim_1NRtf3LzAmcu68oa0K3AaiE9c' }
+    return { "Authorization": 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjUwMCwicmlkIjowLCJpYXQiOjE2ODkxNTEzNjgsImV4cCI6MTY4OTIzNzc2OH0.Aq6nGLsScjVQKbXxgLwoQnjVmbvvMjTofN6EYZI4Tk0' }
 })
 
 

@@ -5,7 +5,7 @@ function updateShop(data) {
 }
 //查询店铺
 function findShop(data){
-  return http.get('/shops/find',data)
+  return http.get('http://www.tangxiaoyang.vip:8888/api/v2/',data)
 }
 export {
   updateShop,
