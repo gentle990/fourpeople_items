@@ -1,5 +1,6 @@
 <template>
     <div class="all">
+        <button @click="handleclick">点击去首页</button>
         <!-- <header class="headerbox">
             <div class="headbox "> -->
                 <!-- <div class="biglinebox">
@@ -48,6 +49,9 @@
 <script setup>
 import * as echarts from 'echarts'
 import { ref, onMounted } from 'vue'
+import { useRouter } from 'vue-router'
+const router = useRouter()
+
 const main1 = ref(null)
 const main2 = ref(null)
 const main3 = ref(null)
@@ -197,6 +201,9 @@ onMounted(() => {
     });
 })
 
+const handleclick = () => {
+    router.push('/goods/mygoods')//跳
+}
 </script>
 
 

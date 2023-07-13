@@ -80,7 +80,7 @@ const submitForm = (formEl) => {
                     usersStore.updateId(res.data.data.id)//更新token //目的是将token存储到pinia中，做本地持久化存储
 
                     ElMessage.success('登录成功')//提示登录成功
-                    router.push('/goods/mygoods')//跳转到首页
+                    router.push('/statistics')//跳转到首页
                 }
                 else {
                     ElMessage.error('登录失败')

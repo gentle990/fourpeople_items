@@ -86,7 +86,7 @@ const router = createRouter({
                 path: 'sport',
                 name: 'sport',
                 component: sport,
-              },{
+              }, {
 
                 path: 'foodss',
                 name: 'foodss',
@@ -134,16 +134,16 @@ const router = createRouter({
                   breadcrumbs: ['我的宝贝']
                 },
               },
-                {
-                  path: 'newfoods',
-                  name: 'newfoods',
-                  component: newfoods,
+              {
+                path: 'newfoods',
+                name: 'newfoods',
+                component: newfoods,
               },
               {
                 path: 'setting',
                 name: 'setting',
                 component: setting,
-            },
+              },
               {
                 path: 'publishgoods',
                 name: 'publishgoods',
@@ -199,52 +199,82 @@ const router = createRouter({
     {
       path: '/content',
       name: 'content',
-      component: Content //内容
+      component: Content, //内容
+      meta: {
+        auth: false  // 不给权限
+      }
     },
     {
       path: '/shopstore',
       name: 'shopstore',
-      component: Shopstore //店铺
+      component: Shopstore, //店铺
+      meta: {
+        auth: false  // 不给权限
+      }
     },
     {
       path: '/marketing',
       name: 'marketing',
-      component: Marketing //营销
+      component: Marketing,//营销
+      meta: {
+        auth: false  // 不给权限
+      }
     },
     {
       path: '/promotion',
       name: 'promotion',
-      component: Promotion //推广
+      component: Promotion, //推广
+      meta: {
+        auth: false  // 不给权限
+      }
     },
     {
       path: '/user',
       name: 'user',
-      component: User //用户
+      component: User,//用户
+      meta: {
+        auth: false  // 不给权限
+      }
     },
     {
       path: '/customeservice',
       name: 'customeservice',
-      component: Customeservice //客服
+      component: Customeservice, //客服
+      meta: {
+        auth: false  // 不给权限
+      }
     },
     {
       path: '/accounting',
       name: 'accounting',
-      component: Accounting //财务
+      component: Accounting,//财务
+      meta: {
+        auth: false  // 不给权限
+      }
     },
     {
       path: '/statistics',
       name: 'statistics',
-      component: Statistics //数据
+      component: Statistics,//数据
+      meta: {
+        auth: false  // 不给权限
+      }
     },
     {
       path: '/service',
       name: 'service',
-      component: Service //服务
+      component: Service,//服务
+      meta: {
+        auth: false  // 不给权限
+      }
     },
     {
       path: '/application',
       name: 'application',
-      component: Application //应用
+      component: Application, //应用
+      meta: {
+        auth: false  // 不给权限
+      }
     },
     {
       path: '/:pathMatch(.*)*',
