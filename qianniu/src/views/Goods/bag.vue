@@ -65,15 +65,17 @@
         <div class="shuju">
             <ul class="shuju1">
                 <li><img src="../../assets/shujutu.png" alt=""></li>
-                <li v-for="item in list.goodslist" :key="item.itemId" @click="handleClick(item.filmId)">
-                    <!-- {{ item.image }} -->
-                    <img :src="item.image" alt="" width="210" height="250">
-                    <p>{{ item.title }}</p>
-                    <p>价格：{{ item.price }}</p>
-                    <p>{{ item.keyWord }}</p>
-                    <p>重量：{{ item.monthSearch.ratio }}</p>
-                    <p>分类：{{ item.cateName }}</p>
-                </li>
+               
+                    <li v-for="item in list.goodslist" :key="item.itemId" @click="handleClick(item.filmId)">
+                        <!-- {{ item.image }} -->
+                        <img :src="item.image" alt="" width="210" height="250">
+                        <p>{{ item.title }}</p>
+                        <p>价格：{{ item.price }}</p>
+                        <p>{{ item.keyWord }}</p>
+                        <p>重量：{{ item.monthSearch.ratio }}</p>
+                        <p>分类：{{ item.cateName }}</p>
+                    </li>
+    
             </ul>
         </div>
         <router-View></router-View>
@@ -81,20 +83,16 @@
 </template>
 
 <script setup>
-import { ref } from 'vue';
+import { ref, computed } from 'vue';
 import { useRouter } from 'vue-router'
-import package1 from '../../../test.json'
+import package2 from '../../../bag.json'
 
-const router = useRouter()
-const list = ref(package1)
-
-
-
-
-
+const router = useRouter()  
+const list = ref(package2)
 
 
 </script>
+
 <style scoped>
 .shuju {
     margin-top: 20px;
@@ -127,7 +125,7 @@ const list = ref(package1)
 }
 
 .aaa {
-    width: 120px;
+    width: 100px;
     height: 55px;
     margin-right: 15px;
     font-size: 18px;
@@ -137,6 +135,7 @@ const list = ref(package1)
     text-align: center;
     border: white 1px solid;
     color: black;
+
 }
 
 .button_shuju div:hover {
@@ -180,7 +179,7 @@ const list = ref(package1)
 
 .header0 {
     display: flex;
-    width: 50%;
+    width: 645px;
     justify-content: space-between;
     align-items: center;
 }
@@ -200,5 +199,4 @@ const list = ref(package1)
     align-items: center;
     justify-content: center;
     font-size: 18px;
-}
-</style>
+}</style>

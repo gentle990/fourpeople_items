@@ -13,6 +13,16 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
+  // server: {
+  //   port: 8080,
+  //   proxy: {
+  //     '/api': {
+  //       target: ' http://www.tangxiaoyang.vip:8888/api/v2/',
+  //       changeOrigin: true,
+  //       rewrite: (path) => path.replace(/^\/api/, ''),
+  //     },
+  //   }
+  // },
   server: {
     port: 8080,
     proxy: {

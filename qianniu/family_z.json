@@ -1,0 +1,116 @@
+{
+    "goodslist":[
+        {
+            "itemId": 38240294972,
+            "image": "https://img.alicdn.com/imgextra/i4/383806462/O1CN01wfW9xR1xbe8CKjl9M_!!383806462.jpg",
+            "title": "游泳圈双气囊双层成人加厚水晶泳圈",
+            "price": "6.50",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["双气囊", "加厚", "儿童"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=38240294972&commendWords=双气囊,加厚,儿童",
+            "searchSameUrl": "https://s.taobao.com/search?q=双气囊加厚儿童",
+            "disable": 0,
+            "cateName": "运动/瑜伽/健身/球迷用品->游泳圈",
+            "monthSearch": {
+                "number": "100万+",
+                "ratio": 4.4440977162563
+            },
+            "monthQuantity": {
+                "number": "1万+",
+                "ratio": 4.50033954576322
+            },
+            "monthItem": {
+                "number": "1000+",
+                "ratio": 0.285967399007796
+            },
+            "priceRange": "15-45",
+            "crowdType": "男性 | 子女成家"
+        }, {
+            "itemId": 727224662135,
+            "image": "https://img.alicdn.com/imgextra/i4/2212150886669/O1CN0152MyMU1z8SDe8jF7H_!!2212150886669.jpg",
+            "title": "正宗陕西5斤当季新鲜冬枣脆甜冰糖",
+            "price": "15.80",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["陕西大荔冬枣", "冰糖"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=727224662135&commendWords=陕西大荔冬枣,冰糖",
+            "searchSameUrl": "https://s.taobao.com/search?q=陕西大荔冬枣冰糖",
+            "disable": 0,
+            "cateName": "水产肉类/新鲜蔬果/熟食->枣",
+            "monthSearch": {
+                "number": "1万+",
+                "ratio": 3.22985331123795
+            },
+            "monthQuantity": {
+                "number": "1000+",
+                "ratio": 3.31112916328188
+            },
+            "monthItem": {
+                "number": "100+",
+                "ratio": 1.18085106382979
+            },
+            "priceRange": "47-99",
+            "crowdType": "男性 | 初入职场"
+        }, {
+            "itemId": 618189373596,
+            "image": "https://img.alicdn.com/imgextra/i4/2091220186/O1CN019pEy3n1DFEVgz4Inb_!!2091220186.jpg",
+            "title": "【仙进奉】新鲜水果现摘现发顺丰",
+            "price": "398.00",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["仙进奉", "现摘现发", "茂名"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=618189373596&commendWords=仙进奉,现摘现发,茂名",
+            "searchSameUrl": "https://s.taobao.com/search?q=仙进奉现摘现发茂名",
+            "disable": 0,
+            "cateName": "水产肉类/新鲜蔬果/熟食->荔枝",
+            "monthSearch": {
+                "number": "100万+",
+                "ratio": 3.47872519748494
+            },
+            "monthQuantity": {
+                "number": "1000+",
+                "ratio": 16.8
+            },
+            "monthItem": {
+                "number": "100+",
+                "ratio": 1.63541666666667
+            },
+            "priceRange": "165-349",
+            "crowdType": "女性 | 大学生"
+        }, {
+            "itemId": 618982983971,
+            "image": "https://img.alicdn.com/imgextra/i1/2453334134/O1CN01BnmfIe1gPPw4zeZlD_!!2453334134.jpg",
+            "title": "游泳圈加厚超大胖子充气救生圈网红",
+            "price": "40.00",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["胖子", "充气", "加厚"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=618982983971&commendWords=胖子,充气,加厚",
+            "searchSameUrl": "https://s.taobao.com/search?q=胖子充气加厚",
+            "disable": 0,
+            "cateName": "运动/瑜伽/健身/球迷用品->游泳圈",
+            "monthSearch": {
+                "number": "10万+",
+                "ratio": 2.6976328017079
+            },
+            "monthQuantity": {
+                "number": "1万+",
+                "ratio": 4.98766025641026
+            },
+            "monthItem": {
+                "number": "1000+",
+                "ratio": 0.211820330969267
+            },
+            "priceRange": "20-49",
+            "crowdType": "男性 | 子女成家"
+        }
+    ]}

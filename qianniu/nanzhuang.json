@@ -1,0 +1,118 @@
+{
+    "goodslist":[{ 
+        "itemId": 704567750204,
+        "image": "https://img.alicdn.com/imgextra/i2/2537774750/O1CN01znIMaa1kxY5oCuJgO_!!2537774750.jpg",
+        "title": "反季大码轻薄羽绒服休闲百搭轻便",
+        "price": "39.00",
+        "tag": {
+            "text": "趋势",
+            "value": "trend"
+        },
+        "keyWord": ["反季", "短款", "白鸭绒"],
+        "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=704567750204&commendWords=反季,短款,白鸭绒",
+        "searchSameUrl": "https://s.taobao.com/search?q=反季短款白鸭绒",
+        "disable": 0,
+        "cateName": "男装->羽绒服",
+        "monthSearch": {
+            "number": "10万+",
+            "ratio": 0.893446796130628
+        },
+        "monthQuantity": {
+            "number": "1000+",
+            "ratio": 1.3140157480315
+        },
+        "monthItem": {
+            "number": "1000+",
+            "ratio": -0.0149753066751633
+        },
+        "priceRange": "126-659",
+        "crowdType": "女性 | 子女成家"
+    },
+    {
+        "itemId": 716982078402,
+        "image": "https://img.alicdn.com/imgextra/i3/2206553865898/O1CN01snGocu1tRKpeQDqic_!!2206553865898.jpg",
+        "title": "男生泳衣长袖长裤防嗮潜水服男士",
+        "price": "44.00",
+        "tag": {
+            "text": "趋势",
+            "value": "trend"
+        },
+        "keyWord": ["长袖", "速干", "男生"],
+        "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=716982078402&commendWords=长袖,速干,男生",
+        "searchSameUrl": "https://s.taobao.com/search?q=长袖速干男生",
+        "disable": 0,
+        "cateName": "运动/瑜伽/健身/球迷用品->男士泳衣",
+        "monthSearch": {
+            "number": "100万+",
+            "ratio": 1.28719941909443
+        },
+        "monthQuantity": {
+            "number": "1万+",
+            "ratio": 1.3932954625149
+        },
+        "monthItem": {
+            "number": "1000+",
+            "ratio": 0.136695421366954
+        },
+        "priceRange": "82-239",
+        "crowdType": "男性 | 职场进阶"
+    },{
+        "itemId": 714642194921,
+        "image": "https://img.alicdn.com/imgextra/i4/1722647910/O1CN01WTPpgb28IpiKwl3PX_!!1722647910.jpg",
+        "title": "莆田男鞋黑白熊猫低帮联名北卡蓝",
+        "price": "128.00",
+        "tag": {
+            "text": "趋势",
+            "value": "trend"
+        },
+        "keyWord": ["北卡蓝", "黑白熊猫", "莆田"],
+        "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=714642194921&commendWords=北卡蓝,黑白熊猫,莆田",
+        "searchSameUrl": "https://s.taobao.com/search?q=北卡蓝黑白熊猫莆田",
+        "disable": 0,
+        "cateName": "运动鞋new->运动休闲鞋",
+        "monthSearch": {
+            "number": "1万+",
+            "ratio": 0.148713731939387
+        },
+        "monthQuantity": {
+            "number": "1000+",
+            "ratio": 0.969111969111969
+        },
+        "monthItem": {
+            "number": "100+",
+            "ratio": -0.136741973840666
+        },
+        "priceRange": "174-262",
+        "crowdType": "男性 | 大学生"
+    },{
+        "itemId": 678464594355,
+        "image": "https://img.alicdn.com/imgextra/i2/2880258118/O1CN01ygS9H129q61oS1kL3_!!2880258118.jpg",
+        "title": "八一战友t恤定制八一短袖印字退伍",
+        "price": "40.00",
+        "tag": {
+            "text": "趋势",
+            "value": "trend"
+        },
+        "keyWord": ["八一战友聚会", "纪念衫", "印字"],
+        "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=678464594355&commendWords=八一战友聚会,纪念衫,印字",
+        "searchSameUrl": "https://s.taobao.com/search?q=八一战友聚会纪念衫印字",
+        "disable": 0,
+        "cateName": "男装->Polo衫",
+        "monthSearch": {
+            "number": "1万+",
+            "ratio": 3.01873031659208
+        },
+        "monthQuantity": {
+            "number": "1000+",
+            "ratio": 6.3374613003096
+        },
+        "monthItem": {
+            "number": "100+",
+            "ratio": 1.828125
+        },
+        "priceRange": "43-63",
+        "crowdType": "男性 | 退休生活"
+    }
+
+]
+}

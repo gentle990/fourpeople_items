@@ -1,0 +1,115 @@
+{
+    "goodslist":[
+{
+    "itemId": 716982078402,
+    "image": "https://img.alicdn.com/imgextra/i3/2206553865898/O1CN01snGocu1tRKpeQDqic_!!2206553865898.jpg",
+    "title": "男生泳衣长袖长裤防嗮潜水服男士",
+    "price": "44.00",
+    "tag": {
+        "text": "趋势",
+        "value": "trend"
+    },
+    "keyWord": ["长袖", "速干", "男生"],
+    "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=716982078402&commendWords=长袖,速干,男生",
+    "searchSameUrl": "https://s.taobao.com/search?q=长袖速干男生",
+    "disable": 0,
+    "cateName": "运动/瑜伽/健身/球迷用品->男士泳衣",
+    "monthSearch": {
+        "number": "100万+",
+        "ratio": 1.28719941909443
+    },
+    "monthQuantity": {
+        "number": "1万+",
+        "ratio": 1.3932954625149
+    },
+    "monthItem": {
+        "number": "1000+",
+        "ratio": 0.136695421366954
+    },
+    "priceRange": "82-239",
+    "crowdType": "男性 | 职场进阶"
+},{
+    "itemId": 713922396571,
+    "image": "https://img.alicdn.com/imgextra/i4/4132131977/O1CN01kCNXE31QTVquD4lf0_!!4132131977.jpg",
+    "title": "泳衣保守学生少女可爱连体裙式初高中",
+    "price": "199.00",
+    "tag": {
+        "text": "趋势",
+        "value": "trend"
+    },
+    "keyWord": ["大学生", "微胖", "可爱"],
+    "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=713922396571&commendWords=大学生,微胖,可爱",
+    "searchSameUrl": "https://s.taobao.com/search?q=大学生微胖可爱",
+    "disable": 0,
+    "cateName": "运动/瑜伽/健身/球迷用品->连体泳衣",
+    "monthSearch": {
+        "number": "10万+",
+        "ratio": 1.2652427184466
+    },
+    "monthQuantity": {
+        "number": "1000+",
+        "ratio": 2.81989924433249
+    },
+    "monthItem": {
+        "number": "100+",
+        "ratio": 0.346153846153846
+    },
+    "priceRange": "79-192",
+    "crowdType": "男性 | 职场进阶"
+},{
+    "itemId": 620472263513,
+    "image": "https://img.alicdn.com/imgextra/i4/89428601/O1CN01anENVh2DPJALQ3EWs_!!89428601.jpg",
+    "title": "游泳衣高级感保守显瘦网红水上乐园",
+    "price": "299.00",
+    "tag": {
+        "text": "趋势",
+        "value": "trend"
+    },
+    "keyWord": ["水上乐园", "泳衣女夏", "裙式"],
+    "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=620472263513&commendWords=水上乐园,泳衣女夏,裙式",
+    "searchSameUrl": "https://s.taobao.com/search?q=水上乐园泳衣女夏裙式",
+    "disable": 0,
+    "cateName": "运动/瑜伽/健身/球迷用品->连体泳衣",
+    "monthSearch": {
+        "number": "10万+",
+        "ratio": 0.675230340429157
+    },
+    "monthQuantity": {
+        "number": "1000+",
+        "ratio": 4.35990888382688
+    },
+    "monthItem": {
+        "number": "100+",
+        "ratio": 0.0449826989619377
+    },
+    "priceRange": "70-168",
+    "crowdType": "女性 | 子女成家"
+}, {
+    "itemId": 724241619269,
+    "image": "https://img.alicdn.com/imgextra/i4/2744722383/O1CN01J71uN41TTSfsWEosn_!!2744722383.jpg",
+    "title": "现摘现发陕西新鲜大枣鲜枣5斤应当季",
+    "price": "26.60",
+    "tag": {
+        "text": "趋势",
+        "value": "trend"
+    },
+    "keyWord": ["现摘现发", "陕西大荔冬枣", "水果"],
+    "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=724241619269&commendWords=现摘现发,陕西大荔冬枣,水果",
+    "searchSameUrl": "https://s.taobao.com/search?q=现摘现发陕西大荔冬枣水果",
+    "disable": 0,
+    "cateName": "水产肉类/新鲜蔬果/熟食->枣",
+    "monthSearch": {
+        "number": "1万+",
+        "ratio": 17.7759026687598
+    },
+    "monthQuantity": {
+        "number": "1万+",
+        "ratio": 26.2189781021898
+    },
+    "monthItem": {
+        "number": "100+",
+        "ratio": 1.63559322033898
+    },
+    "priceRange": "39-93",
+    "crowdType": "女性 | 大学生"
+}]}

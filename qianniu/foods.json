@@ -1,0 +1,335 @@
+{
+    "goodslist":[
+        {
+            "itemId": 677161710081,
+            "image": "https://img.alicdn.com/imgextra/i3/1049264933/O1CN01YFpLvF1mJMYS1hOGk_!!1049264933.jpg",
+            "title": "山东5斤正宗新鲜脆甜冬枣青枣冰糖心",
+            "price": "16.90",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["冬枣新鲜", "冰糖"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=677161710081&commendWords=冬枣新鲜,冰糖",
+            "searchSameUrl": "https://s.taobao.com/search?q=冬枣新鲜冰糖",
+            "disable": 0,
+            "cateName": "水产肉类/新鲜蔬果/熟食->枣",
+            "monthSearch": {
+                "number": "10万+",
+                "ratio": 2.75528758732893
+            },
+            "monthQuantity": {
+                "number": "1000+",
+                "ratio": 13.3333333333333
+            },
+            "monthItem": {
+                "number": "100+",
+                "ratio": 0.484581497797357
+            },
+            "priceRange": "50-123",
+            "crowdType": "男性 | 初入职场"
+        }, {
+            "itemId": 722552548693,
+            "image": "https://img.alicdn.com/imgextra/i4/721217225/O1CN01RzHKag23F6BEGnOt2_!!721217225.jpg",
+            "title": "莲蓬生吃时令水果嫩莲子农家现摘",
+            "price": "29.80",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["莲子", "时令水果"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=722552548693&commendWords=莲子,时令水果",
+            "searchSameUrl": "https://s.taobao.com/search?q=莲子时令水果",
+            "disable": 0,
+            "cateName": "水产肉类/新鲜蔬果/熟食->新鲜莲蓬",
+            "monthSearch": {
+                "number": "1万+",
+                "ratio": 7.23184052430366
+            },
+            "monthQuantity": {
+                "number": "1000+",
+                "ratio": 12.086387434555
+            },
+            "monthItem": {
+                "ratio": 3
+            },
+            "priceRange": "32-46",
+            "crowdType": "男性 | 成家立业"
+        }, {
+            "itemId": 714068510395,
+            "image": "https://img.alicdn.com/imgextra/i1/50594678/O1CN017sS8zx1kQZczCW8JU_!!50594678.jpg",
+            "title": "粽子礼盒蜜枣八宝豆沙甜粽嘉兴风味",
+            "price": "79.00",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["咸粽", "蛋黄", "嘉兴"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=714068510395&commendWords=咸粽,蛋黄,嘉兴",
+            "searchSameUrl": "https://s.taobao.com/search?q=咸粽蛋黄嘉兴",
+            "disable": 0,
+            "cateName": "粮油调味/速食/干货/烘焙->粽子",
+            "monthSearch": {
+                "number": "100万+",
+                "ratio": 1.08922744738891
+            },
+            "monthQuantity": {
+                "number": "10万+",
+                "ratio": 0.332939606513624
+            },
+            "monthItem": {
+                "number": "1000+",
+                "ratio": -0.615434711820254
+            },
+            "priceRange": "26-81",
+            "crowdType": "男性 | 大学生"
+        }, {
+            "itemId": 723015539481,
+            "image": "https://img.alicdn.com/imgextra/i3/923804909/O1CN01zwP7l01m8N8Fp95tG_!!923804909.jpg",
+            "title": "奉化水蜜桃浙江宁波水果新鲜现摘",
+            "price": "105.00",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["奉化水蜜桃", "白凤", "湖景"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=723015539481&commendWords=奉化水蜜桃,白凤,湖景",
+            "searchSameUrl": "https://s.taobao.com/search?q=奉化水蜜桃白凤湖景",
+            "disable": 0,
+            "cateName": "水产肉类/新鲜蔬果/熟食->桃",
+            "monthSearch": {
+                "number": "100万+",
+                "ratio": 3.24758274171075
+            },
+            "monthQuantity": {
+                "number": "1000+",
+                "ratio": 7.41436464088398
+            },
+            "monthItem": {
+                "ratio": 2.52941176470588
+            },
+            "priceRange": "105-187",
+            "crowdType": "男性 | 退休生活"
+        }, {
+            "itemId": 723562322385,
+            "image": "https://img.alicdn.com/imgextra/i1/863451337/O1CN01ZAV2HM1LkOO0TnJNB_!!863451337.jpg",
+            "title": "黄油桃平谷大桃果园直销现摘现发",
+            "price": "38.80",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["平谷大桃", "果园", "现摘现发"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=723562322385&commendWords=平谷大桃,果园,现摘现发",
+            "searchSameUrl": "https://s.taobao.com/search?q=平谷大桃果园现摘现发",
+            "disable": 0,
+            "cateName": "水产肉类/新鲜蔬果/熟食->桃",
+            "monthSearch": {
+                "number": "10万+",
+                "ratio": 2.81733970406905
+            },
+            "monthQuantity": {
+                "number": "1000+",
+                "ratio": 2.42784810126582
+            },
+            "monthItem": {
+                "ratio": 0.8125
+            },
+            "priceRange": "89-157",
+            "crowdType": "男性 | 退休生活"
+        }, {
+            "itemId": 717757066113,
+            "image": "https://img.alicdn.com/imgextra/i2/726649756/O1CN01nelvAb2LwIrCtAZFT_!!726649756.jpg",
+            "title": "嘉兴粽子礼盒装蛋黄鲜肉粽子鸭蛋",
+            "price": "159.80",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["竹篮", "礼品", "蛋黄"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=717757066113&commendWords=竹篮,礼品,蛋黄",
+            "searchSameUrl": "https://s.taobao.com/search?q=竹篮礼品蛋黄",
+            "disable": 0,
+            "cateName": "粮油调味/速食/干货/烘焙->粽子",
+            "monthSearch": {
+                "number": "100万+",
+                "ratio": 0.27542357122825
+            },
+            "monthQuantity": {
+                "number": "10万+",
+                "ratio": 0.0525083970556708
+            },
+            "monthItem": {
+                "number": "100+",
+                "ratio": -0.788538538538539
+            },
+            "priceRange": "70-168",
+            "crowdType": "男性 | 大学生"
+        },{
+            "itemId": 719677962912,
+            "image": "https://img.alicdn.com/imgextra/i2/1124371142/O1CN01Siehpx1KJ59TWX3zD_!!1124371142.jpg",
+            "title": "莲蓬3斤甜嫩水果湖南湘莲当季洪湖",
+            "price": "41.80",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["莲子米", "水果"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=719677962912&commendWords=莲子米,水果",
+            "searchSameUrl": "https://s.taobao.com/search?q=莲子米水果",
+            "disable": 0,
+            "cateName": "水产肉类/新鲜蔬果/熟食->新鲜莲蓬",
+            "monthSearch": {
+                "number": "10万+",
+                "ratio": 1.47242978352874
+            },
+            "monthQuantity": {
+                "number": "1万+",
+                "ratio": 7.77149364205732
+            },
+            "monthItem": {
+                "number": "100+",
+                "ratio": 2.49295774647887
+            },
+            "priceRange": "33-76",
+            "crowdType": "男性 | 初入职场"
+        }, {
+            "itemId": 678480999499,
+            "image": "https://img.alicdn.com/imgextra/i3/2888553836/O1CN01FffuDT1eCw4eOOI7x_!!2888553836.png",
+            "title": "包邮砀山一号蜜梨水果新鲜10斤",
+            "price": "26.99",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["青梨", "水果", "整箱"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=678480999499&commendWords=青梨,水果,整箱",
+            "searchSameUrl": "https://s.taobao.com/search?q=青梨水果整箱",
+            "disable": 0,
+            "cateName": "水产肉类/新鲜蔬果/熟食->梨",
+            "monthSearch": {
+                "number": "100万+",
+                "ratio": 2.82948597648629
+            },
+            "monthQuantity": {
+                "number": "1万+",
+                "ratio": 7.86284953395473
+            },
+            "monthItem": {
+                "number": "1000+",
+                "ratio": 0.824561403508772
+            },
+            "priceRange": "33-66",
+            "crowdType": "男性 | 养儿育女"
+        },{
+            "itemId": 549125639772,
+            "image": "https://img.alicdn.com/imgextra/i2/1133063950/O1CN01IYP2N81f39ILmJK7l_!!1133063950.jpg",
+            "title": "粽子广西粽子大王板栗鲜肉绿豆沙",
+            "price": "6.00",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["咸粽子", "绿豆", "广西桂林"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=549125639772&commendWords=咸粽子,绿豆,广西桂林",
+            "searchSameUrl": "https://s.taobao.com/search?q=咸粽子绿豆广西桂林",
+            "disable": 0,
+            "cateName": "粮油调味/速食/干货/烘焙->粽子",
+            "monthSearch": {
+                "number": "1万+",
+                "ratio": 0.747481427595177
+            },
+            "monthQuantity": {
+                "number": "1000+",
+                "ratio": 0.743526510480888
+            },
+            "monthItem": {
+                "ratio": -0.6375
+            },
+            "priceRange": "10-49",
+            "crowdType": "男性 | 大学生"
+        }, {
+            "itemId": 718751139799,
+            "image": "https://img.alicdn.com/imgextra/i2/4214406262/O1CN01aeB9Va1w830EbOJHH_!!4214406262.jpg",
+            "title": "应季水蜜桃9斤脆桃新鲜现摘水果",
+            "price": "21.90",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["阳山水蜜桃", "整箱"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=718751139799&commendWords=阳山水蜜桃,整箱",
+            "searchSameUrl": "https://s.taobao.com/search?q=阳山水蜜桃整箱",
+            "disable": 0,
+            "cateName": "水产肉类/新鲜蔬果/熟食->桃",
+            "monthSearch": {
+                "number": "1000万+",
+                "ratio": 2.13289718449325
+            },
+            "monthQuantity": {
+                "number": "10万+",
+                "ratio": 1.22845186800716
+            },
+            "monthItem": {
+                "number": "1000+",
+                "ratio": 1.14409722222222
+            },
+            "priceRange": "100-200",
+            "crowdType": "男性 | 大学生"
+        },{
+            "itemId": 549512973597,
+            "image": "https://img.alicdn.com/imgextra/i2/682021150/TB2U558XAfb_uJkHFNRXXc3vpXa_!!682021150.jpg",
+            "title": "小黄姜粉干姜粉食用特级正品生姜粉",
+            "price": "43.60",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["食用特级", "云南小黄姜"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=549512973597&commendWords=食用特级,云南小黄姜",
+            "searchSameUrl": "https://s.taobao.com/search?q=食用特级云南小黄姜",
+            "disable": 0,
+            "cateName": "咖啡/麦片/冲饮->天然粉粉食品",
+            "monthSearch": {
+                "number": "100万+",
+                "ratio": 6.09772326002136
+            },
+            "monthQuantity": {
+                "number": "1万+",
+                "ratio": 3.11596119929453
+            },
+            "monthItem": {
+                "number": "100+",
+                "ratio": 0.538961038961039
+            },
+            "priceRange": "22-47",
+            "crowdType": "男性 | 职场进阶"
+        }, {
+            "itemId": 728241435985,
+            "image": "https://img.alicdn.com/imgextra/i2/2214711477270/O1CN01P6GnZx23ZiFqQTcYx_!!2214711477270.jpg",
+            "title": "冷风家的芒果四川芒果凯特芒现摘",
+            "price": "19.90",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["攀枝花芒果", "现摘现发", "四川"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=728241435985&commendWords=攀枝花芒果,现摘现发,四川",
+            "searchSameUrl": "https://s.taobao.com/search?q=攀枝花芒果现摘现发四川",
+            "disable": 0,
+            "cateName": "水产肉类/新鲜蔬果/熟食->芒果",
+            "monthSearch": {
+                "number": "1万+",
+                "ratio": 0.1098526028367
+            },
+            "monthQuantity": {
+                "number": "1万+",
+                "ratio": 293.5
+            },
+            "monthItem": {
+                "ratio": 1
+            },
+            "priceRange": "28-69",
+            "crowdType": "男性 | 成家立业"
+        }
+    ]}

@@ -1,0 +1,144 @@
+{
+    "goodslist":[
+        {
+            "itemId": 718623008176,
+            "image": "https://img.alicdn.com/imgextra/i1/2029826775/O1CN01zAXKx31zv0BeZx1Xn_!!2029826775.jpg",
+            "title": "大码半拖鞋夏季外穿黑色包头脚丫",
+            "price": "388.00",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["半拖鞋", "包头"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=718623008176&commendWords=半拖鞋,包头",
+            "searchSameUrl": "https://s.taobao.com/search?q=半拖鞋包头",
+            "disable": 0,
+            "cateName": "女鞋->时尚休闲沙滩鞋",
+            "monthSearch": {
+                "number": "1万+",
+                "ratio": 0.68462451113943
+            },
+            "monthQuantity": {
+                "number": "1000+",
+                "ratio": 1.14727722772277
+            },
+            "monthItem": {
+                "number": "100+",
+                "ratio": 0.408450704225352
+            },
+            "priceRange": "78-256",
+            "crowdType": "女性 | 成家立业"
+        },{
+            "itemId": 695769803196,
+            "image": "https://img.alicdn.com/imgextra/i3/2299535160/O1CN01NUc6QB1nzKVZUVeQT_!!2299535160.jpg",
+            "title": "可调节可下水轻便凉鞋2023年",
+            "price": "198.00",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["可下水", "轻便", "沙滩"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=695769803196&commendWords=可下水,轻便,沙滩",
+            "searchSameUrl": "https://s.taobao.com/search?q=可下水轻便沙滩",
+            "disable": 0,
+            "cateName": "女鞋->时装凉鞋",
+            "monthSearch": {
+                "number": "1万+",
+                "ratio": 0.771693756106226
+            },
+            "monthQuantity": {
+                "number": "1000+",
+                "ratio": 1.66415094339623
+            },
+            "monthItem": {
+                "number": "100+",
+                "ratio": 1.9493670886076
+            },
+            "priceRange": "21-160",
+            "crowdType": "女性 | 成家立业"
+        }, {
+            "itemId": 589013354310,
+            "image": "https://img.alicdn.com/imgextra/i2/1108777800/O1CN01cDnyLc27URnY2XhvT_!!1108777800.jpg",
+            "title": "直播翡翠叶子福瓜平安扣观音大肚",
+            "price": "10.00",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["路路通", "叶子", "大肚佛"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=589013354310&commendWords=路路通,叶子,大肚佛",
+            "searchSameUrl": "https://s.taobao.com/search?q=路路通叶子大肚佛",
+            "disable": 0,
+            "cateName": "珠宝/钻石/翡翠/黄金->颈饰",
+            "monthSearch": {
+                "number": "1000+",
+                "ratio": 0.253784056508577
+            },
+            "monthQuantity": {
+                "number": "10万+",
+                "ratio": 0.344905618721713
+            },
+            "monthItem": {
+                "ratio": 0
+            },
+            "priceRange": "47-1899",
+            "crowdType": "女性 | 退休生活"
+        }, {
+            "itemId": 723359930780,
+            "image": "https://img.alicdn.com/imgextra/i4/383806462/O1CN017mNW2U1xbeE1o3fHW_!!383806462.jpg",
+            "title": "气囊防水袋可触屏游泳泡温泉漂流",
+            "price": "3.90",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["可触屏", "漂流", "泡温泉"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=723359930780&commendWords=可触屏,漂流,泡温泉",
+            "searchSameUrl": "https://s.taobao.com/search?q=可触屏漂流泡温泉",
+            "disable": 0,
+            "cateName": "运动/瑜伽/健身/球迷用品->游泳专用包",
+            "monthSearch": {
+                "number": "1万+",
+                "ratio": 3.30329908748644
+            },
+            "monthQuantity": {
+                "number": "1000+",
+                "ratio": 2.79109426811937
+            },
+            "monthItem": {
+                "number": "100+",
+                "ratio": 1.55701754385965
+            },
+            "priceRange": "19-57",
+            "crowdType": "女性 | 大学生"
+        }, {
+            "itemId": 724861373347,
+            "image": "https://img.alicdn.com/imgextra/i1/2454668421/O1CN017iop6S2C4s7mWJJgT_!!2454668421.jpg",
+            "title": "黑色泡泡纱盘发鲨鱼夹子后脑勺大号",
+            "price": "15.80",
+            "tag": {
+                "text": "趋势",
+                "value": "trend"
+            },
+            "keyWord": ["泡泡纱", "鲨鱼夹", "后脑勺"],
+            "publishUrl": "https://item.upload.taobao.com/sell/v2/publish.htm?commendItem=true&commendItemId=724861373347&commendWords=泡泡纱,鲨鱼夹,后脑勺",
+            "searchSameUrl": "https://s.taobao.com/search?q=泡泡纱鲨鱼夹后脑勺",
+            "disable": 0,
+            "cateName": "饰品/流行首饰/时尚饰品新->发饰",
+            "monthSearch": {
+                "number": "10万+",
+                "ratio": 0.309748654314225
+            },
+            "monthQuantity": {
+                "number": "1万+",
+                "ratio": 0.813095238095238
+            },
+            "monthItem": {
+                "number": "100+",
+                "ratio": 1.2191235059761
+            },
+            "priceRange": "15-51",
+            "crowdType": "男性 | 子女成家"
+        }
+    ]
+}
